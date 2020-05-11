@@ -9,14 +9,13 @@
       "description": "Multi-layered system-worthy definition",
       "categoryId": "administration",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "22",
       "vendor_phone": "+33 860 596 0994",
       "status_color": "#00FF00",
       "department": "Business Development",
       "hostedtype": "Azure",
       "deployment_date": "16/10/02",
-      "investment_number": "478",
+      "investment_number": 478,
       "type": "OffShelf",
       "sme_email": "Judi.Gwynn@memento.net.au",
       "investment_24m": "694",
@@ -24,11 +23,11 @@
       "support_cost": "194",
       "vendor_contact_name": "Kiah Blitzer",
       "end_of_life": "25/10/19",
-      "months_to_renew_support": "11",
+      "months_to_renew_support": 11,
       "end_of_maintenance": "27/2/17",
       "integrations": [
         {
-          "assetId": "int-494",
+          "id": "int-494",
           "name": "INT-494",
           "shortName": null,
           "version": "0.1.7",
@@ -36,7 +35,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -49,7 +47,7 @@
           "golive_date": "6/3/03"
         },
         {
-          "assetId": "int-165",
+          "id": "int-165",
           "name": "INT-165",
           "shortName": null,
           "version": "0.62",
@@ -57,7 +55,6 @@
           "payload": "Vendor Product",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -70,7 +67,7 @@
           "golive_date": "7/1/05"
         },
         {
-          "assetId": "int-428",
+          "id": "int-428",
           "name": "INT-428",
           "shortName": null,
           "version": "9.2",
@@ -78,7 +75,6 @@
           "payload": "Sales (MTD)",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gerri Gwyllt",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -91,7 +87,7 @@
           "golive_date": "25/5/10"
         },
         {
-          "assetId": "int-164",
+          "id": "int-164",
           "name": "INT-164",
           "shortName": null,
           "version": "0.5.3",
@@ -99,7 +95,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "social_innovation",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -112,7 +107,7 @@
           "golive_date": "31/1/13"
         },
         {
-          "assetId": "int-183",
+          "id": "int-183",
           "name": "INT-183",
           "shortName": null,
           "version": "0.57",
@@ -120,7 +115,6 @@
           "payload": "Order Registration",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
